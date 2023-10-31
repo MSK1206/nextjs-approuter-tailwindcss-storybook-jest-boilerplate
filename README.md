@@ -45,7 +45,7 @@ npm install
 ```
 <br />
 
-## 実行
+## 開発環境の実行
 
 ```bash
 npm run dev
