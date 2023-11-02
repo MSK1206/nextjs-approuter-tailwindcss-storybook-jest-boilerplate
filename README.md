@@ -12,8 +12,8 @@
   <a href="https://twitter.com/Msk_init">
     <img src="https://img.shields.io/twitter/follow/:Msk_init" alt="Msk_init Twitter follow" />
   </a>
-  <a href="https://github.com/MSK1206/nextjs-nextauth-app">
-    <img src="https://img.shields.io/github/stars/MSK1206/nextjs-nextauth-app?label=MSK1206%2Fnextjs-nextauth-app" alt="nextjs-nextauth-app repo star count" />
+  <a href="https://github.com/MSK1206/nextjs-approuter-tailwindcss-storybook-jest-boilerplate">
+    <img src="https://img.shields.io/github/stars/MSK1206/nextjs-nextauth-app?label=MSK1206%2Fnextjs-approuter-tailwindcss-storybook-jest-boilerplate" alt="nextjs-approuter-tailwindcss-storybook-jest-boilerplate repo star count" />
   </a>
 </p>
 <br />
